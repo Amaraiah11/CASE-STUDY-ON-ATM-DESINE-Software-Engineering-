@@ -1,7 +1,7 @@
 # 🏧 ATM System Design — Software Engineering Architecture Case Study
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E1B4B,4338CA,6366F1&height=220&section=header&text=ATM%20System%20Design&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Architectural%20Case%20Study%20%26%20State%20Machine%20Specification&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="ATM System Design Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4338CA,100:6366F1&customColorList=1E1B4B,4338CA,6366F1&height=220&section=header&text=ATM%20System%20Design&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Architectural%20Case%20Study%20%26%20State%20Machine%20Specification&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="ATM System Design Banner" />
 </p>
 
 <p align="center">
@@ -165,5 +165,5 @@ Contributions, bug reports, and architectural discussions are welcome!
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E1B4B,4338CA,6366F1&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4338CA,100:6366F1&customColorList=1E1B4B,4338CA,6366F1&height=100&section=footer" width="100%" alt="Footer Banner" />
 </p>
